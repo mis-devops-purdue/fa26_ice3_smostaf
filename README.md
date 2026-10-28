@@ -6,4 +6,4 @@ ICE 3 Pair Programming Exercise for MIS 58710.
 
 - **Saif Mostafa**: Favorite movie: Whiplash
 - **Asher Javaid**: Favorite movie: The Godfather
-- **Alice Smith**: Favorite movie: The Matrix
+- **Tanvi Vijay**: Favorite movie: The Matrix
